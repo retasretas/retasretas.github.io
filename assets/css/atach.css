@@ -26,3 +26,18 @@
   border-radius: 3px;
 } */
 }
+
+#sidebar{
+    background-color: #6d001f;
+}
+#header .header-title {
+    background-color: #6d001f;
+    font-size: 12px;
+}
+#header, hr {
+     border: none;
+}
+.archive .archive-posts .archive-post .archive-post-title {
+    color: #26AAFF;
+    /*text-decoration: underline;*/
+}
