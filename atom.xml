@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  
   <title><![CDATA[楽天イーグルス試合、コボスタ観戦ガイド]]></title>
   
   <link href="/atom.xml" rel="self"/>
-  <link href="http://kobosta-guide.org//"/>
+  <link href="http://kobosta-guide.org/"/>
   <updated>2015-08-10T12:18:07.000Z</updated>
-  <id>http://kobosta-guide.org//</id>
+  <id>http://kobosta-guide.org/</id>
   
   <author>
     <name><![CDATA[retas]]></name>
