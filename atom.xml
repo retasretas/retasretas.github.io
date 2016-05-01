@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[楽天イーグルス試合、コボスタ観戦ガイド]]></title>
+  <title><![CDATA[コボスタ観戦ガイド]]></title>
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://kobosta-guide.org/"/>
-  <updated>2016-04-04T15:04:32.000Z</updated>
+  <updated>2016-05-01T04:11:12.000Z</updated>
   <id>http://kobosta-guide.org/</id>
   
   <author>
@@ -15,11 +15,37 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[内野3塁側カウンターシート3列（CB3列27番）]]></title>
+    <link href="http://kobosta-guide.org/%E5%86%85%E9%87%8E3%E5%A1%81%E5%81%B4%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%88/cb3-27/"/>
+    <id>http://kobosta-guide.org/内野3塁側カウンターシート/cb3-27/</id>
+    <published>2016-04-09T01:00:00.000Z</published>
+    <updated>2016-05-01T04:11:12.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="map.png" alt="座席位置"></p>
+<p>前回<a href="/内野3塁側カウンターシート/cb1-67/" title="内野3塁側カウンターシート最前列（CB1列67番）">内野3塁側カウンターシート最前列（CB1列67番）</a>で観たのですが、続けざまにカウンターシートで観てきてしまいました。</p>
+<p>これには涙なしではいられない止むに止まれぬ事情があるのです。が、そこは割愛。</p>
+<p><img src="03.jpg" alt="建設の進む観覧車"></p>
+<p>観覧車の建設も、この時点で（4/9時点）で1週間前よりも進んでいました。</p>
+<p>徐々に、観覧車の外周ができあがっていく様が、見てておもしろかったです。</p>
+<p>5/2オープンということなので、この執筆時点（5/1）には出来上がっていることでしょう。</p>
+<h2 id="眺めについて">眺めについて</h2><p>席の感想としては、カウンターシートなので、<a href="/内野3塁側カウンターシート/cb1-67/" title="前回">前回</a>と同様、快適です。</p>
+<p>照明の柱から少し離れたので、視界が開けてレフト側を見渡しやすくなっています。</p>
+<p>レフトの応援団を見たいという場合はこちらの席のほうがオススメです。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="map.png" alt="座席位置"></p>
+<p>前回<a href="/内野3塁側カウンターシート/cb1-67/" title="内野3塁側カウンターシート最前列（CB1列67番）">内野3塁側カウンターシート最前列（CB1列67番）</a>で]]>
+    </summary>
+    
+      <category term="内野3塁側カウンターシート" scheme="http://kobosta-guide.org/categories/%E5%86%85%E9%87%8E3%E5%A1%81%E5%81%B4%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%88/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[内野3塁側カウンターシート最前列（CB1列67番）]]></title>
     <link href="http://kobosta-guide.org/%E5%86%85%E9%87%8E3%E5%A1%81%E5%81%B4%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%88/cb1-67/"/>
     <id>http://kobosta-guide.org/内野3塁側カウンターシート/cb1-67/</id>
     <published>2016-04-02T01:00:00.000Z</published>
-    <updated>2016-04-04T15:04:32.000Z</updated>
+    <updated>2016-05-01T04:01:09.000Z</updated>
     <content type="html"><![CDATA[<p><img src="map.png" alt="座席位置"></p>
 <p>今季、初観戦に行ってまいりました。</p>
 <p>なので、もちろん天然芝になって初めてコボスタに入りました。</p>

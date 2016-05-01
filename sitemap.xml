@@ -2,8 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kobosta-guide.org/all-categories/index.html</loc>
+    <lastmod>2016-05-01T04:15:04.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kobosta-guide.org/%E5%86%85%E9%87%8E3%E5%A1%81%E5%81%B4%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%88/cb3-27/</loc>
+    <lastmod>2016-05-01T04:11:12.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://kobosta-guide.org/%E5%86%85%E9%87%8E3%E5%A1%81%E5%81%B4%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%88/cb1-67/</loc>
-    <lastmod>2016-04-04T15:04:32.000Z</lastmod>
+    <lastmod>2016-05-01T04:01:09.000Z</lastmod>
   </url>
   
   <url>
@@ -104,11 +114,6 @@
   <url>
     <loc>http://kobosta-guide.org/about/index.html</loc>
     <lastmod>2015-06-27T08:32:56.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kobosta-guide.org/all-categories/index.html</loc>
-    <lastmod>2015-06-27T07:53:58.000Z</lastmod>
   </url>
   
 </urlset>
