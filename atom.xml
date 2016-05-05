@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://kobosta-guide.org/"/>
-  <updated>2016-05-05T05:59:18.000Z</updated>
+  <updated>2016-05-01T05:21:35.000Z</updated>
   <id>http://kobosta-guide.org/</id>
   
   <author>
@@ -13,30 +13,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title><![CDATA[内野指定席1塁側A（B20列24番）]]></title>
-    <link href="http://kobosta-guide.org/%E5%86%85%E9%87%8E%E6%8C%87%E5%AE%9A%E5%B8%AD1%E5%A1%81%E5%81%B4A/b20-24/"/>
-    <id>http://kobosta-guide.org/内野指定席1塁側A/b20-24/</id>
-    <published>2016-05-05T05:47:57.000Z</published>
-    <updated>2016-05-05T05:59:18.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="map.png" alt="座席位置"></p>
-<h2 id="席について">席について</h2><p>1塁側の内野指定席の最上段。</p>
-<h2 id="眺め">眺め</h2><p>ある程度高さがあるので、視界にネットが飛び込むこともなく、フィールド全体を見渡せる。</p>
-<p>バッターボックスにもそこそこ近い上に、視界がバックネットに被っていないので非常にクリアで臨場感ある視点で楽しめる。</p>
-<p>楽天側ベンチも見えるので、個人的には3塁側ベンチ上よりも好きな眺めかもしれない。</p>
-<p>視線の向き的に、試合と同時に観覧車の様子や（写真撮影当時には観覧車はなかったが）、ビジョンを視線移動少なく楽しめる。</p>
-<p>かなりオススメできる席。</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="map.png" alt="座席位置"></p>
-<h2 id="席について">席について</h2><p>1塁側の内野指定席の最上段。</p>
-<h2 id="眺め">眺め</h2><p>ある程度高さがあるので、視界にネットが飛び込むこともなく、フィール]]>
-    </summary>
-    
-      <category term="内野指定席1塁側A" scheme="http://kobosta-guide.org/categories/%E5%86%85%E9%87%8E%E6%8C%87%E5%AE%9A%E5%B8%AD1%E5%A1%81%E5%81%B4A/"/>
-    
-  </entry>
   
   <entry>
     <title><![CDATA[内野3塁側ボックスシート7（L6A-CBOX11）]]></title>
@@ -547,6 +523,28 @@
     </summary>
     
       <category term="内野指定席3塁側B" scheme="http://kobosta-guide.org/categories/%E5%86%85%E9%87%8E%E6%8C%87%E5%AE%9A%E5%B8%AD3%E5%A1%81%E5%81%B4B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[A20列3番]]></title>
+    <link href="http://kobosta-guide.org/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%88/a20-3/"/>
+    <id>http://kobosta-guide.org/ゴールデンシート/a20-3/</id>
+    <published>2015-06-27T08:23:39.000Z</published>
+    <updated>2015-06-27T10:28:29.000Z</updated>
+    <content type="html"><![CDATA[<img src="/ゴールデンシート/a20-3/map.png" title="座席位置 座席位置">
+<p>ゴールデンシートは市販されている一般座席の中でもっとも高い席。</p>
+<p>低すぎず高すぎず中段くらいの位置からフィールドを見下ろせる。</p>
+<p>階段も近いため、踊り場にあるトイレと露店にも行きやすい。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<img src="/ゴールデンシート/a20-3/map.png" title="座席位置 座席位置">
+<p>ゴールデンシートは市販されている一般座席の中でもっとも高い席。</p>
+<p>低すぎず高すぎず中段くらいの位置からフィールドを見下ろせる。</p>
+<p>階段も近いた]]>
+    </summary>
+    
+      <category term="ゴールデンシート" scheme="http://kobosta-guide.org/categories/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%88/"/>
     
   </entry>
   
