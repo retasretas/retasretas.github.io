@@ -41,3 +41,11 @@
     color: #26AAFF;
     /*text-decoration: underline;*/
 }
+
+.amazon {
+  margin-top: 1em;
+}
+.amazlet-box + .amazlet-box {
+  border-top: 3px solid #eee;
+  padding-top: 1em;
+}
