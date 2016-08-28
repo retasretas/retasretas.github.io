@@ -1,3 +1,17 @@
+.markdown h2 {
+    font-size: 1.65rem;
+    border: 1px solid #6d001f;
+    padding: 1em;
+    color: #6d001f;
+    border-left: none;
+    border-right: none;
+}
+.markdown h3 {
+    border-left: 1px solid #6d001f;
+    padding-left: 1em;
+}
+
+
 .post .post-header-cover .post-header .post-title {
   text-shadow: 0 2px 10px rgba(0,0,0,.4);
 }
