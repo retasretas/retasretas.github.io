@@ -1,31 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[コボスタ観戦ガイド]]></title>
+  <title>コボスタ観戦ガイド</title>
   
   <link href="/atom.xml" rel="self"/>
+  
   <link href="http://kobosta-guide.org/"/>
-  <updated>2016-05-01T05:21:35.000Z</updated>
+  <updated>2017-07-13T02:37:18.000Z</updated>
   <id>http://kobosta-guide.org/</id>
   
   <author>
-    <name><![CDATA[retas]]></name>
+    <name>retas</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[内野3塁側ボックスシート7（L6A-CBOX11）]]></title>
+    <title>バイバーシート CC20列71番</title>
+    <link href="http://kobosta-guide.org/%E3%83%90%E3%82%A4%E3%83%90%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%88/cc20-71/"/>
+    <id>http://kobosta-guide.org/バイバーシート/cc20-71/</id>
+    <published>2017-07-13T02:07:24.000Z</published>
+    <updated>2017-07-13T02:37:18.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="map.png" alt="座席位置"></p>
+<h2 id="席からの眺め"><a href="#席からの眺め" class="headerlink" title="席からの眺め"></a>席からの眺め</h2><p>仙台在住ではなくなったため、行ける回数が減り今回が2017年の初観戦。</p>
+<p><a href="/バイバーシート/cc22-36/" title="前回のバイバーシート">前回のバイバーシート</a>の席より少し高めのところ。</p>
+<p>本当は記事数の少ないシート（バックネット裏のボックスシートか一塁側のS席等）を確保してサイトを充実させたかったものの、チケットを取った日が試合直近だったので空いておらず。</p>
+<p>結局余っていた見慣れたバイバーシートで見ることに。</p>
+<p><img src="03.jpg" alt="座席からの眺め1"><br><img src="04.jpg" alt="座席からの眺め2"></p>
+<h3 id="勝利"><a href="#勝利" class="headerlink" title="勝利"></a>勝利</h3><p><img src="06.jpg" alt="辛勝、風船飛ばし"></p>
+<p>この日は辛くも勝利できたのでよかった。</p>
+<h2 id="花火大会"><a href="#花火大会" class="headerlink" title="花火大会"></a>花火大会</h2><p><img src="08.jpg" alt="花火大会1"><br><img src="09.jpg" alt="花火大会2"><br><img src="10.jpg" alt="花火大会3"></p>
+<p>この日は花火大会がやっていて、選手ごとの曲やイメージに合わせた花火が打ち上げられて面白かった。</p>
+<h2 id="去年との変化（球場全体）"><a href="#去年との変化（球場全体）" class="headerlink" title="去年との変化（球場全体）"></a>去年との変化（球場全体）</h2><h3 id="いつの間にか豪華なボックスシートが"><a href="#いつの間にか豪華なボックスシートが" class="headerlink" title="いつの間にか豪華なボックスシートが"></a>いつの間にか豪華なボックスシートが</h3><p><img src="02.jpg" alt="プレミアム仕様の革張りブラックシート"></p>
+<p>いつの間にかボックスシートの中に革張りのプレミアム仕様な物が出現していた。<br>これは全席この仕様ではなく、今までのバックネット裏のボックスシートの一部がこの仕様になっているっぽい。</p>
+<h3 id="ブラックな観覧車出現"><a href="#ブラックな観覧車出現" class="headerlink" title="ブラックな観覧車出現"></a>ブラックな観覧車出現</h3><p><img src="01.jpg" alt="ブラック観覧車"></p>
+<p>ブラックイーグルスの一環で、通常の観覧車の他に黒いものが出現していた。<br>観覧車なのに中から外が見えないらしい。（なんじゃそりゃ）</p>
+<p>高所恐怖症の人にはいいかもしれない。</p>
+<p>また観覧車の中には双眼鏡が常設されるようになっていた。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;map.png&quot; alt=&quot;座席位置&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;席からの眺め&quot;&gt;&lt;a href=&quot;#席からの眺め&quot; class=&quot;headerlink&quot; title=&quot;席からの眺め&quot;&gt;&lt;/a&gt;席からの眺め&lt;/h2&gt;&lt;p&gt;仙台在住ではなくなったため、行け
+    
+    </summary>
+    
+      <category term="バイバーシート" scheme="http://kobosta-guide.org/categories/%E3%83%90%E3%82%A4%E3%83%90%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%88/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>内野3塁側ボックスシート7（L6A-CBOX11）</title>
     <link href="http://kobosta-guide.org/%E5%86%85%E9%87%8E3%E5%A1%81%E5%81%B4%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%82%B7%E3%83%BC%E3%83%88/cbox11/"/>
     <id>http://kobosta-guide.org/内野3塁側ボックスシート/cbox11/</id>
     <published>2016-04-10T04:35:40.000Z</published>
     <updated>2016-05-01T05:21:35.000Z</updated>
+    
     <content type="html"><![CDATA[<p><img src="map.png" alt="座席位置"></p>
 <p>4月10日の日ハム対楽天戦を、家族で観てきました。</p>
 <p><img src="00.jpg" alt="日ハム戦"></p>
 <p>相手先発は大谷翔平だったのでラッキーでした。でも乱打戦にならない事と負ける確率が高まることを考えると、有名選手とはいえ相手エースと当たることはラッキーとは言えないかも。</p>
 <p><strong>現地に行って投手戦だと結構退屈</strong>なので、遠征で見に行く方はローテで3番手以降の選手が投げる日に行った方が、打ち合いになって楽しめると思います。</p>
-<h2 id="席について">席について</h2><p>七人席だけ合って、テーブルと空間がかなり余裕があります。</p>
+<h2 id="席について"><a href="#席について" class="headerlink" title="席について"></a>席について</h2><p>七人席だけ合って、テーブルと空間がかなり余裕があります。</p>
 <p><img src="05.jpg" alt="7人席だけ合って広々とした快適空間"></p>
 <ul>
 <li>5人掛けベンチ</li>
@@ -38,31 +77,36 @@
 <p><img src="08.jpg" alt="テーブルの上に大量の食べ物。それでも問題なし！"></p>
 <p>持ってきた荷物を置いてもなお空間には余裕があり、食べ物やドリンクを大量に買ってきて、快適に楽しめる席となってます。</p>
 <p>ファミリーで行くには最適のボックスシートでしょう。2世帯まで行けると思います。</p>
-<h2 id="眺め">眺め</h2><p>左前方に照明の柱があり、席によっては液晶ビジョンやスコアと完全に被ってしまって、ビジョン演出や球速表示を楽しめなくなります。</p>
+<h2 id="眺め"><a href="#眺め" class="headerlink" title="眺め"></a>眺め</h2><p>左前方に照明の柱があり、席によっては液晶ビジョンやスコアと完全に被ってしまって、ビジョン演出や球速表示を楽しめなくなります。</p>
 <p>この席の場合は、テーブルの左側に座ると柱がビジョンに被ってしまって見えなくなりました。</p>
 <p>テーブルの右側に座れば問題なくビジョン演出を楽しめます。</p>
 <p>それ以外は問題なく試合は楽しめるので、家族で行く場合は検討してみてください。</p>
-<h2 id="試合">試合</h2><p>試合は1-0で、釜田が勝利投手となりました。</p>
+<h2 id="試合"><a href="#試合" class="headerlink" title="試合"></a>試合</h2><p>試合は1-0で、釜田が勝利投手となりました。</p>
 <p>そしてこの勝利によって3年ぶりの単独首位となり、まさにイケイケの状態だったのですが、まさかここから6連敗と連敗ロードを歩むことになるとは、この時まだ想像もしていませんでした。</p>
 <p><img src="09.jpg" alt="れーべーすてーじで観衆の前に立つ、この日ヒーローの釜田と茂木"></p>
 ]]></content>
+    
     <summary type="html">
-    <![CDATA[<p><img src="map.png" alt="座席位置"></p>
-<p>4月10日の日ハム対楽天戦を、家族で観てきました。</p>
-<p><img src="00.jpg" alt="日ハム戦"></p>
-<p>相手先発は大谷翔平だったのでラッキーでした。でも乱打戦にな]]>
+    
+      &lt;p&gt;&lt;img src=&quot;map.png&quot; alt=&quot;座席位置&quot;&gt;&lt;/p&gt;
+&lt;p&gt;4月10日の日ハム対楽天戦を、家族で観てきました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;00.jpg&quot; alt=&quot;日ハム戦&quot;&gt;&lt;/p&gt;
+&lt;p&gt;相手先発は大谷翔平だったのでラッキーでした。でも乱打戦にな
+    
     </summary>
     
       <category term="内野3塁側ボックスシート" scheme="http://kobosta-guide.org/categories/%E5%86%85%E9%87%8E3%E5%A1%81%E5%81%B4%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%82%B7%E3%83%BC%E3%83%88/"/>
     
+    
   </entry>
   
   <entry>
-    <title><![CDATA[内野3塁側カウンターシート3列（CB3列27番）]]></title>
+    <title>内野3塁側カウンターシート3列（CB3列27番）</title>
     <link href="http://kobosta-guide.org/%E5%86%85%E9%87%8E3%E5%A1%81%E5%81%B4%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%88/cb3-27/"/>
     <id>http://kobosta-guide.org/内野3塁側カウンターシート/cb3-27/</id>
     <published>2016-04-09T01:00:00.000Z</published>
     <updated>2016-05-01T04:11:12.000Z</updated>
+    
     <content type="html"><![CDATA[<p><img src="map.png" alt="座席位置"></p>
 <p>前回<a href="/内野3塁側カウンターシート/cb1-67/" title="内野3塁側カウンターシート最前列（CB1列67番）">内野3塁側カウンターシート最前列（CB1列67番）</a>で観たのですが、続けざまにカウンターシートで観てきてしまいました。</p>
 <p>これには涙なしではいられない止むに止まれぬ事情があるのです。が、そこは割愛。</p>
@@ -70,25 +114,30 @@
 <p>観覧車の建設も、この時点で（4/9時点）で1週間前よりも進んでいました。</p>
 <p>徐々に、観覧車の外周ができあがっていく様が、見てておもしろかったです。</p>
 <p>5/2オープンということなので、この執筆時点（5/1）には出来上がっていることでしょう。</p>
-<h2 id="眺めについて">眺めについて</h2><p>席の感想としては、カウンターシートなので、<a href="/内野3塁側カウンターシート/cb1-67/" title="前回">前回</a>と同様、快適です。</p>
+<h2 id="眺めについて"><a href="#眺めについて" class="headerlink" title="眺めについて"></a>眺めについて</h2><p>席の感想としては、カウンターシートなので、<a href="/内野3塁側カウンターシート/cb1-67/" title="前回">前回</a>と同様、快適です。</p>
 <p>照明の柱から少し離れたので、視界が開けてレフト側を見渡しやすくなっています。</p>
 <p>レフトの応援団を見たいという場合はこちらの席のほうがオススメです。</p>
 ]]></content>
+    
     <summary type="html">
-    <![CDATA[<p><img src="map.png" alt="座席位置"></p>
-<p>前回<a href="/内野3塁側カウンターシート/cb1-67/" title="内野3塁側カウンターシート最前列（CB1列67番）">内野3塁側カウンターシート最前列（CB1列67番）</a>で]]>
+    
+      &lt;p&gt;&lt;img src=&quot;map.png&quot; alt=&quot;座席位置&quot;&gt;&lt;/p&gt;
+&lt;p&gt;前回&lt;a href=&quot;/内野3塁側カウンターシート/cb1-67/&quot; title=&quot;内野3塁側カウンターシート最前列（CB1列67番）&quot;&gt;内野3塁側カウンターシート最前列（CB1列67番）&lt;/a&gt;で
+    
     </summary>
     
       <category term="内野3塁側カウンターシート" scheme="http://kobosta-guide.org/categories/%E5%86%85%E9%87%8E3%E5%A1%81%E5%81%B4%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%88/"/>
     
+    
   </entry>
   
   <entry>
-    <title><![CDATA[内野3塁側カウンターシート最前列（CB1列67番）]]></title>
+    <title>内野3塁側カウンターシート最前列（CB1列67番）</title>
     <link href="http://kobosta-guide.org/%E5%86%85%E9%87%8E3%E5%A1%81%E5%81%B4%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%88/cb1-67/"/>
     <id>http://kobosta-guide.org/内野3塁側カウンターシート/cb1-67/</id>
     <published>2016-04-02T01:00:00.000Z</published>
     <updated>2016-05-01T04:52:05.000Z</updated>
+    
     <content type="html"><![CDATA[<p><img src="map.png" alt="座席位置"></p>
 <p>今季、初観戦に行ってまいりました。</p>
 <p>なので、もちろん天然芝になって初めてコボスタに入りました。</p>
@@ -96,10 +145,10 @@
 <p>オープニングのPVも天然芝を全面に押し出したものとなっていました。</p>
 <p><img src="01.jpg" alt="今江！"></p>
 <p>そして、今江！も見えました。</p>
-<h2 id="席について">席について</h2><p><img src="02.jpg" alt="席にはカウンターがある"></p>
+<h2 id="席について"><a href="#席について" class="headerlink" title="席について"></a>席について</h2><p><img src="02.jpg" alt="席にはカウンターがある"></p>
 <p>内野3塁側カウンターシートは、その名の通り、席の前にカウンターがあります。<br>なので、優雅に食事をしながら観戦を楽しむことができます。</p>
 <p>また、<strong>プレミアム仕様な椅子はクッションつき</strong>で、お尻を痛めることなく快適に吸われます。</p>
-<h2 id="眺めについて">眺めについて</h2><p>眺めですが、この席はカウンターの最前列であり、フィールドのダイヤモンドに向かって視界を遮るものは何もありませんでした。</p>
+<h2 id="眺めについて"><a href="#眺めについて" class="headerlink" title="眺めについて"></a>眺めについて</h2><p>眺めですが、この席はカウンターの最前列であり、フィールドのダイヤモンドに向かって視界を遮るものは何もありませんでした。</p>
 <p><img src="07.jpg" alt="レフト方向への眺めに難あり"></p>
 <p>レフト方向を見た時にスタンディング席があるため、レフトの最奥部を見るには難ありでした。<br>そのため応援団も見えづらくなっています。</p>
 <p>もうひとつ、この日は霧雨だったので、難点をもうひとつ発見しました。<br>この難点は、天気の悪い日限定ですが、<strong>頭上真上に照明があるため、そこに溜まった水滴がしたたって大粒の玉となって落ちてきます。</strong></p>
@@ -107,27 +156,32 @@
 <p><img src="08.jpg" alt="照明の柱すぐそば"><br><img src="12.jpg" alt="頭上には照明があり、水滴が落ちてきた"></p>
 <p>余談ですが、5月完成予定の建設中の観覧車の土台が見えました。</p>
 <p><img src="10.jpg" alt="もうすぐ完成らしい観覧車の土台"></p>
-<h2 id="まとめ">まとめ</h2><p>カウンターがあるため、食事に非常に便利な席です。<br>大人数には不向きですが、カップルや2人〜3人までの人数で見に行くには非常に最適な席といえます。</p>
+<h2 id="まとめ"><a href="#まとめ" class="headerlink" title="まとめ"></a>まとめ</h2><p>カウンターがあるため、食事に非常に便利な席です。<br>大人数には不向きですが、カップルや2人〜3人までの人数で見に行くには非常に最適な席といえます。</p>
 <p>さて、試合は見事大量得点によりイーグルスが勝ちました！</p>
 <p>勝ち投手塩見、負け投手十亀。</p>
 ]]></content>
+    
     <summary type="html">
-    <![CDATA[<p><img src="map.png" alt="座席位置"></p>
-<p>今季、初観戦に行ってまいりました。</p>
-<p>なので、もちろん天然芝になって初めてコボスタに入りました。</p>
-<p>あいにくこの日は雨で、快晴とは行きませんでした。<br>なので天然芝の魅力]]>
+    
+      &lt;p&gt;&lt;img src=&quot;map.png&quot; alt=&quot;座席位置&quot;&gt;&lt;/p&gt;
+&lt;p&gt;今季、初観戦に行ってまいりました。&lt;/p&gt;
+&lt;p&gt;なので、もちろん天然芝になって初めてコボスタに入りました。&lt;/p&gt;
+&lt;p&gt;あいにくこの日は雨で、快晴とは行きませんでした。&lt;br&gt;なので天然芝の魅力
+    
     </summary>
     
       <category term="内野3塁側カウンターシート" scheme="http://kobosta-guide.org/categories/%E5%86%85%E9%87%8E3%E5%A1%81%E5%81%B4%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%88/"/>
     
+    
   </entry>
   
   <entry>
-    <title><![CDATA[内野3塁側プレミアムシートCB10列49番]]></title>
+    <title>内野3塁側プレミアムシートCB10列49番</title>
     <link href="http://kobosta-guide.org/%E5%86%85%E9%87%8E3%E5%A1%81%E5%81%B4%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%82%B7%E3%83%BC%E3%83%88/cb10-49/"/>
     <id>http://kobosta-guide.org/内野3塁側プレミアムシート/cb10-49/</id>
     <published>2015-10-12T08:17:47.000Z</published>
     <updated>2016-05-03T02:59:55.000Z</updated>
+    
     <content type="html"><![CDATA[<img src="/内野3塁側プレミアムシート/cb10-49/map.png" title="座席位置 座席位置">
 <p>2014年新設シートのひとつ。</p>
 <img src="/内野3塁側プレミアムシート/cb10-49/cb10-49-01.jpg" title="眺め">
@@ -146,22 +200,27 @@
 <p>席の眺めとしては、特に死角もなく高度もあり、申し分なく試合の流れを追える。<br>レフトスタンド応援団からの熱気も伝わってきて、一人用観戦にも数人の観戦時にもよさそうだ。</p>
 <img src="/内野3塁側プレミアムシート/cb10-49/cb10-49-12.jpg" title="眺め">
 ]]></content>
+    
     <summary type="html">
-    <![CDATA[<img src="/内野3塁側プレミアムシート/cb10-49/map.png" title="座席位置 座席位置">
-<p>2014年新設シートのひとつ。</p>
-<img src="/内野3塁側プレミアムシート/cb10-49/cb10-49-01.jpg" title="]]>
+    
+      &lt;img src=&quot;/内野3塁側プレミアムシート/cb10-49/map.png&quot; title=&quot;座席位置 座席位置&quot;&gt;
+&lt;p&gt;2014年新設シートのひとつ。&lt;/p&gt;
+&lt;img src=&quot;/内野3塁側プレミアムシート/cb10-49/cb10-49-01.jpg&quot; title=&quot;
+    
     </summary>
     
       <category term="内野3塁側プレミアムシート" scheme="http://kobosta-guide.org/categories/%E5%86%85%E9%87%8E3%E5%A1%81%E5%81%B4%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%82%B7%E3%83%BC%E3%83%88/"/>
     
+    
   </entry>
   
   <entry>
-    <title><![CDATA[セブン-イレブン・ピクニックボックス（芝）20番]]></title>
+    <title>セブン-イレブン・ピクニックボックス（芝）20番</title>
     <link href="http://kobosta-guide.org/%E5%A4%96%E9%87%8E%E5%B8%AD%E3%83%A9%E3%82%A4%E3%83%88%E5%81%B4/%E3%82%BB%E3%83%96%E3%83%B3-%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3%E3%83%BB%E3%83%94%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%EF%BC%88%E8%8A%9D%EF%BC%89/p7box-20/"/>
     <id>http://kobosta-guide.org/外野席ライト側/セブン-イレブン・ピクニックボックス（芝）/p7box-20/</id>
     <published>2015-08-10T12:05:15.000Z</published>
     <updated>2015-08-10T12:18:07.000Z</updated>
+    
     <content type="html"><![CDATA[<img src="/外野席ライト側/セブン-イレブン・ピクニックボックス（芝）/p7box-20/map.png" title="座席位置 座席位置">
 <p>ピクニック席は1組10枚での販売だが、<a href="http://kobosta-guide.org/%E5%A4%96%E9%87%8E%E5%B8%AD%E3%83%A9%E3%82%A4%E3%83%88%E5%81%B4/%E3%82%BB%E3%83%96%E3%83%B3-%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3%E3%83%BB%E3%83%94%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%EF%BC%88%E8%8A%9D%EF%BC%89/p7box-27/">前述</a>通り、5人までの利用が快適に見れる範囲。</p>
 <p>あまり大人数だと食べ物を置くスペースや、脚を広げて座るスペースはなくなってしまう。</p>
@@ -169,23 +228,28 @@
 <p>ビジター席が比較的近いため、相手応援団の熱気を感じることができる。特にロッテ応援団の時は一段と熱気がある。</p>
 <p>ちなみにこの試合はソフトバンクホークス相手に12回延長で0点引き分けの試合で、ライト側にまったく打球も飛んでこず、春先の夜で寒い思いだけして退屈に終わった。</p>
 ]]></content>
+    
     <summary type="html">
-    <![CDATA[<img src="/外野席ライト側/セブン-イレブン・ピクニックボックス（芝）/p7box-20/map.png" title="座席位置 座席位置">
-<p>ピクニック席は1組10枚での販売だが、<a href="http://kobosta-guide.org/%E5%A4]]>
+    
+      &lt;img src=&quot;/外野席ライト側/セブン-イレブン・ピクニックボックス（芝）/p7box-20/map.png&quot; title=&quot;座席位置 座席位置&quot;&gt;
+&lt;p&gt;ピクニック席は1組10枚での販売だが、&lt;a href=&quot;http://kobosta-guide.org/%E5%A4
+    
     </summary>
     
       <category term="外野席ライト側" scheme="http://kobosta-guide.org/categories/%E5%A4%96%E9%87%8E%E5%B8%AD%E3%83%A9%E3%82%A4%E3%83%88%E5%81%B4/"/>
     
       <category term="セブン-イレブン・ピクニックボックス（芝）" scheme="http://kobosta-guide.org/categories/%E5%A4%96%E9%87%8E%E5%B8%AD%E3%83%A9%E3%82%A4%E3%83%88%E5%81%B4/%E3%82%BB%E3%83%96%E3%83%B3-%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3%E3%83%BB%E3%83%94%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%EF%BC%88%E8%8A%9D%EF%BC%89/"/>
     
+    
   </entry>
   
   <entry>
-    <title><![CDATA[CC22列36番]]></title>
+    <title>CC22列36番</title>
     <link href="http://kobosta-guide.org/%E3%83%90%E3%82%A4%E3%83%90%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%88/cc22-36/"/>
     <id>http://kobosta-guide.org/バイバーシート/cc22-36/</id>
     <published>2015-07-26T01:55:36.000Z</published>
     <updated>2015-07-26T02:40:33.000Z</updated>
+    
     <content type="html"><![CDATA[<img src="/バイバーシート/cc22-36/map.png" title="座席位置 座席位置">
 <p>14年に完成した新しい座席、バイバーシートの中段中ほど付近。最近まで知らなかったが、バイ「パー(PA)」ではばく「バー(BA)」らしい。</p>
 <p>入場口はL6B。</p>
@@ -203,22 +267,27 @@
 <p>距離が遠いため、期待してなかったが思った以上に眺めがよく良い席だった。<br>全体を見たい場合は程よい高さと距離も必要らしい。</p>
 <p>レフトが一番近いため、伊志嶺の動きがよく見えた。</p>
 ]]></content>
+    
     <summary type="html">
-    <![CDATA[<img src="/バイバーシート/cc22-36/map.png" title="座席位置 座席位置">
-<p>14年に完成した新しい座席、バイバーシートの中段中ほど付近。最近まで知らなかったが、バイ「パー(PA)」ではばく「バー(BA)」らしい。</p>
-<p>入場口はL6]]>
+    
+      &lt;img src=&quot;/バイバーシート/cc22-36/map.png&quot; title=&quot;座席位置 座席位置&quot;&gt;
+&lt;p&gt;14年に完成した新しい座席、バイバーシートの中段中ほど付近。最近まで知らなかったが、バイ「パー(PA)」ではばく「バー(BA)」らしい。&lt;/p&gt;
+&lt;p&gt;入場口はL6
+    
     </summary>
     
       <category term="バイバーシート" scheme="http://kobosta-guide.org/categories/%E3%83%90%E3%82%A4%E3%83%90%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%88/"/>
     
+    
   </entry>
   
   <entry>
-    <title><![CDATA[A33列-6番]]></title>
+    <title>A33列-6番</title>
     <link href="http://kobosta-guide.org/%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%88/a33-6/"/>
     <id>http://kobosta-guide.org/イーグルシート/a33-6/</id>
     <published>2015-07-15T13:26:28.000Z</published>
     <updated>2015-07-15T13:41:19.000Z</updated>
+    
     <content type="html"><![CDATA[<img src="/イーグルシート/a33-6/map.png" title="座席位置 座席位置">
 <p>イーグルシートの左方、最上段。</p>
 <p>高い位置からダイヤモンドを見渡せるため、内野フィールドの動きがよく見える。</p>
@@ -226,23 +295,28 @@
 <p>それでも視界に入ってきて気になるという人はこの席はやめたほうがいいかもしれない。</p>
 <p>おおむね見晴らしは良好。</p>
 ]]></content>
+    
     <summary type="html">
-    <![CDATA[<img src="/イーグルシート/a33-6/map.png" title="座席位置 座席位置">
-<p>イーグルシートの左方、最上段。</p>
-<p>高い位置からダイヤモンドを見渡せるため、内野フィールドの動きがよく見える。</p>
-<p>左側面には障害物が見えるがレフト]]>
+    
+      &lt;img src=&quot;/イーグルシート/a33-6/map.png&quot; title=&quot;座席位置 座席位置&quot;&gt;
+&lt;p&gt;イーグルシートの左方、最上段。&lt;/p&gt;
+&lt;p&gt;高い位置からダイヤモンドを見渡せるため、内野フィールドの動きがよく見える。&lt;/p&gt;
+&lt;p&gt;左側面には障害物が見えるがレフト
+    
     </summary>
     
       <category term="イーグルシート" scheme="http://kobosta-guide.org/categories/%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%88/"/>
     
+    
   </entry>
   
   <entry>
-    <title><![CDATA[外野自由エリア]]></title>
+    <title>外野自由エリア</title>
     <link href="http://kobosta-guide.org/%E5%A4%96%E9%87%8E%E5%B8%AD%E3%83%AC%E3%83%95%E3%83%88%E5%81%B4/freearea/"/>
     <id>http://kobosta-guide.org/外野席レフト側/freearea/</id>
     <published>2015-07-06T11:35:04.000Z</published>
     <updated>2015-07-06T12:59:59.000Z</updated>
+    
     <content type="html"><![CDATA[<img src="/外野席レフト側/freearea/map.png" title="座席位置 座席位置">
 <p>中継では芝生に見えるが、実はただ緑色に染められたコンクリートエリアである。</p>
 <p>楽天山を除けばもっとも格安で手軽に取れる席。楽天山はここが埋まっている時のみの選択肢とすればよし。</p>
@@ -252,22 +326,27 @@
 <p><strong>地べたに直接座るため衣服の汚れを気にする人はシートやマット必携。</strong></p>
 <p>坂になっているのでドリンクも固定する紙の台をもらっておいたほうがこぼさなくて済む。（もしもこぼすと下のほうへ流れていくため前に座ってる人に迷惑がかかったりして被害は甚大。）</p>
 ]]></content>
+    
     <summary type="html">
-    <![CDATA[<img src="/外野席レフト側/freearea/map.png" title="座席位置 座席位置">
-<p>中継では芝生に見えるが、実はただ緑色に染められたコンクリートエリアである。</p>
-<p>楽天山を除けばもっとも格安で手軽に取れる席。楽天山はここが埋まっている時]]>
+    
+      &lt;img src=&quot;/外野席レフト側/freearea/map.png&quot; title=&quot;座席位置 座席位置&quot;&gt;
+&lt;p&gt;中継では芝生に見えるが、実はただ緑色に染められたコンクリートエリアである。&lt;/p&gt;
+&lt;p&gt;楽天山を除けばもっとも格安で手軽に取れる席。楽天山はここが埋まっている時
+    
     </summary>
     
       <category term="外野席レフト側" scheme="http://kobosta-guide.org/categories/%E5%A4%96%E9%87%8E%E5%B8%AD%E3%83%AC%E3%83%95%E3%83%88%E5%81%B4/"/>
     
+    
   </entry>
   
   <entry>
-    <title><![CDATA[セブン-イレブン・ピクニックボックス（芝）27番]]></title>
+    <title>セブン-イレブン・ピクニックボックス（芝）27番</title>
     <link href="http://kobosta-guide.org/%E5%A4%96%E9%87%8E%E5%B8%AD%E3%83%A9%E3%82%A4%E3%83%88%E5%81%B4/%E3%82%BB%E3%83%96%E3%83%B3-%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3%E3%83%BB%E3%83%94%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%EF%BC%88%E8%8A%9D%EF%BC%89/p7box-27/"/>
     <id>http://kobosta-guide.org/外野席ライト側/セブン-イレブン・ピクニックボックス（芝）/p7box-27/</id>
     <published>2015-07-02T13:40:25.000Z</published>
     <updated>2015-07-02T14:06:39.000Z</updated>
+    
     <content type="html"><![CDATA[<img src="/外野席ライト側/セブン-イレブン・ピクニックボックス（芝）/p7box-27/map.png" title="座席位置 座席位置">
 <p>チケット10枚単位で販売されていて、最安で8000円（税抜き）で買える一枚あたり800円とチケット単価の安いお得な席。</p>
 <p>安い割には見晴らしはよく視界を遮るものはなし。</p>
@@ -277,23 +356,28 @@
 <p>なので10枚のうち5枚くらいは捨て権になるため、実質的には2倍くらいの単価だと見たほうが吉。</p>
 <p>試合がある日は席にクッションが備え付けられているので座ってみるのに快適である。</p>
 ]]></content>
+    
     <summary type="html">
-    <![CDATA[<img src="/外野席ライト側/セブン-イレブン・ピクニックボックス（芝）/p7box-27/map.png" title="座席位置 座席位置">
-<p>チケット10枚単位で販売されていて、最安で8000円（税抜き）で買える一枚あたり800円とチケット単価の安いお得な席。]]>
+    
+      &lt;img src=&quot;/外野席ライト側/セブン-イレブン・ピクニックボックス（芝）/p7box-27/map.png&quot; title=&quot;座席位置 座席位置&quot;&gt;
+&lt;p&gt;チケット10枚単位で販売されていて、最安で8000円（税抜き）で買える一枚あたり800円とチケット単価の安いお得な席。
+    
     </summary>
     
       <category term="外野席ライト側" scheme="http://kobosta-guide.org/categories/%E5%A4%96%E9%87%8E%E5%B8%AD%E3%83%A9%E3%82%A4%E3%83%88%E5%81%B4/"/>
     
       <category term="セブン-イレブン・ピクニックボックス（芝）" scheme="http://kobosta-guide.org/categories/%E5%A4%96%E9%87%8E%E5%B8%AD%E3%83%A9%E3%82%A4%E3%83%88%E5%81%B4/%E3%82%BB%E3%83%96%E3%83%B3-%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3%E3%83%BB%E3%83%94%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%EF%BC%88%E8%8A%9D%EF%BC%89/"/>
     
+    
   </entry>
   
   <entry>
-    <title><![CDATA[D41列15番（ビジター応援席）]]></title>
+    <title>D41列15番（ビジター応援席）</title>
     <link href="http://kobosta-guide.org/%E5%A4%96%E9%87%8E%E5%B8%AD%E3%83%A9%E3%82%A4%E3%83%88%E5%81%B4/%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E5%BF%9C%E6%8F%B4%E5%B8%AD/d41-15/"/>
     <id>http://kobosta-guide.org/外野席ライト側/ビジター応援席/d41-15/</id>
     <published>2015-07-01T12:54:34.000Z</published>
     <updated>2015-07-02T14:08:40.000Z</updated>
+    
     <content type="html"><![CDATA[<img src="/外野席ライト側/ビジター応援席/d41-15/map.png" title="座席位置 座席位置">
 <p>いわゆるビジター応援席の最上段かつ最右端。</p>
 <p>高い席からの見晴らしは抜群。</p>
@@ -301,71 +385,86 @@
 <p>ホームへの見晴らしは左打席へ黄色いポールがかぶるが概ね良好。</p>
 <p>端っこの席で階段も内野席より広いのでトイレや店への行き来もしやすい。</p>
 ]]></content>
+    
     <summary type="html">
-    <![CDATA[<img src="/外野席ライト側/ビジター応援席/d41-15/map.png" title="座席位置 座席位置">
-<p>いわゆるビジター応援席の最上段かつ最右端。</p>
-<p>高い席からの見晴らしは抜群。</p>
-<p>ライト選手の動きはもちろん、反対側のレフトまでよ]]>
+    
+      &lt;img src=&quot;/外野席ライト側/ビジター応援席/d41-15/map.png&quot; title=&quot;座席位置 座席位置&quot;&gt;
+&lt;p&gt;いわゆるビジター応援席の最上段かつ最右端。&lt;/p&gt;
+&lt;p&gt;高い席からの見晴らしは抜群。&lt;/p&gt;
+&lt;p&gt;ライト選手の動きはもちろん、反対側のレフトまでよ
+    
     </summary>
     
       <category term="外野席ライト側" scheme="http://kobosta-guide.org/categories/%E5%A4%96%E9%87%8E%E5%B8%AD%E3%83%A9%E3%82%A4%E3%83%88%E5%81%B4/"/>
     
       <category term="ビジター応援席" scheme="http://kobosta-guide.org/categories/%E5%A4%96%E9%87%8E%E5%B8%AD%E3%83%A9%E3%82%A4%E3%83%88%E5%81%B4/%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E5%BF%9C%E6%8F%B4%E5%B8%AD/"/>
     
+    
   </entry>
   
   <entry>
-    <title><![CDATA[B20列187番]]></title>
+    <title>B20列187番</title>
     <link href="http://kobosta-guide.org/%E5%86%85%E9%87%8E%E6%8C%87%E5%AE%9A%E5%B8%AD1%E5%A1%81%E5%81%B4B/b20-187/"/>
     <id>http://kobosta-guide.org/内野指定席1塁側B/b20-187/</id>
     <published>2015-06-29T12:08:55.000Z</published>
     <updated>2015-06-29T12:15:16.000Z</updated>
+    
     <content type="html"><![CDATA[<img src="/内野指定席1塁側B/b20-187/map.png" title="座席位置 座席位置">
 <p>内野指定席1塁側Bの最上段かつ最奥。</p>
 <p>すぐ隣にはビジター応援席があり、相手の応援団の迫力の大合唱が間近で聞こえる。</p>
 <p>黄色いポールより後ろで試合を望むことになる。</p>
 <p>真下に位置するライトは若干死角になるが、ダイヤモンド全体を見晴らすことができ上場の眺め。</p>
 ]]></content>
+    
     <summary type="html">
-    <![CDATA[<img src="/内野指定席1塁側B/b20-187/map.png" title="座席位置 座席位置">
-<p>内野指定席1塁側Bの最上段かつ最奥。</p>
-<p>すぐ隣にはビジター応援席があり、相手の応援団の迫力の大合唱が間近で聞こえる。</p>
-<p>黄色いポールより]]>
+    
+      &lt;img src=&quot;/内野指定席1塁側B/b20-187/map.png&quot; title=&quot;座席位置 座席位置&quot;&gt;
+&lt;p&gt;内野指定席1塁側Bの最上段かつ最奥。&lt;/p&gt;
+&lt;p&gt;すぐ隣にはビジター応援席があり、相手の応援団の迫力の大合唱が間近で聞こえる。&lt;/p&gt;
+&lt;p&gt;黄色いポールより
+    
     </summary>
     
       <category term="内野指定席1塁側B" scheme="http://kobosta-guide.org/categories/%E5%86%85%E9%87%8E%E6%8C%87%E5%AE%9A%E5%B8%AD1%E5%A1%81%E5%81%B4B/"/>
     
+    
   </entry>
   
   <entry>
-    <title><![CDATA[B20列141番]]></title>
+    <title>B20列141番</title>
     <link href="http://kobosta-guide.org/%E5%86%85%E9%87%8E%E6%8C%87%E5%AE%9A%E5%B8%AD1%E5%A1%81%E5%81%B4B/b20-141/"/>
     <id>http://kobosta-guide.org/内野指定席1塁側B/b20-141/</id>
     <published>2015-06-28T12:28:28.000Z</published>
     <updated>2015-06-28T12:37:45.000Z</updated>
+    
     <content type="html"><![CDATA[<img src="/内野指定席1塁側B/b20-141/map.png" title="座席位置 座席位置">
 <p>内野指定席1塁側Bの最上段。</p>
 <p>見晴らしがよく内野の動きも外野の動きもよく把握できる。</p>
 <p>特にライト選手の動きはよく見えるので、ライトに自分の贔屓の選手がいる場合は狙い目の席。</p>
 <p>また、コボビジョンとも近いので情報がよく見える。</p>
 ]]></content>
+    
     <summary type="html">
-    <![CDATA[<img src="/内野指定席1塁側B/b20-141/map.png" title="座席位置 座席位置">
-<p>内野指定席1塁側Bの最上段。</p>
-<p>見晴らしがよく内野の動きも外野の動きもよく把握できる。</p>
-<p>特にライト選手の動きはよく見えるので、ライトに]]>
+    
+      &lt;img src=&quot;/内野指定席1塁側B/b20-141/map.png&quot; title=&quot;座席位置 座席位置&quot;&gt;
+&lt;p&gt;内野指定席1塁側Bの最上段。&lt;/p&gt;
+&lt;p&gt;見晴らしがよく内野の動きも外野の動きもよく把握できる。&lt;/p&gt;
+&lt;p&gt;特にライト選手の動きはよく見えるので、ライトに
+    
     </summary>
     
       <category term="内野指定席1塁側B" scheme="http://kobosta-guide.org/categories/%E5%86%85%E9%87%8E%E6%8C%87%E5%AE%9A%E5%B8%AD1%E5%A1%81%E5%81%B4B/"/>
     
+    
   </entry>
   
   <entry>
-    <title><![CDATA[バックネット裏ボックスシート5 65番]]></title>
+    <title>バックネット裏ボックスシート5 65番</title>
     <link href="http://kobosta-guide.org/%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%88/%E3%83%90%E3%83%83%E3%82%AF%E3%83%8D%E3%83%83%E3%83%88%E8%A3%8F%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%82%B7%E3%83%BC%E3%83%885/box5-65/"/>
     <id>http://kobosta-guide.org/イーグルシート/バックネット裏ボックスシート5/box5-65/</id>
     <published>2015-06-28T11:41:10.000Z</published>
     <updated>2015-06-28T12:09:45.000Z</updated>
+    
     <content type="html"><![CDATA[<img src="/イーグルシート/バックネット裏ボックスシート5/box5-65/map.png" title="座席位置 座席位置">
 <p>ボックスシート5はテーブルひとつに椅子が2つ、3人座りベンチがひとつある複数人用の席。</p>
 <p>65番はバックネット裏一塁側最上段にあるボックスシート。すぐ後ろには露店があるので買い出しは楽。</p>
@@ -374,24 +473,29 @@
 <p>一塁からセンターラインまでしか視界がないのでライト側に打球が飛んだ場合はプレーを把握できない。</p>
 <p>他のボックスシート席に余裕がある場合はここを選択するのは一番最後の選択にしたほうがよさげ。</p>
 ]]></content>
+    
     <summary type="html">
-    <![CDATA[<img src="/イーグルシート/バックネット裏ボックスシート5/box5-65/map.png" title="座席位置 座席位置">
-<p>ボックスシート5はテーブルひとつに椅子が2つ、3人座りベンチがひとつある複数人用の席。</p>
-<p>65番はバックネット裏一塁側最]]>
+    
+      &lt;img src=&quot;/イーグルシート/バックネット裏ボックスシート5/box5-65/map.png&quot; title=&quot;座席位置 座席位置&quot;&gt;
+&lt;p&gt;ボックスシート5はテーブルひとつに椅子が2つ、3人座りベンチがひとつある複数人用の席。&lt;/p&gt;
+&lt;p&gt;65番はバックネット裏一塁側最
+    
     </summary>
     
       <category term="イーグルシート" scheme="http://kobosta-guide.org/categories/%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%88/"/>
     
       <category term="バックネット裏ボックスシート5" scheme="http://kobosta-guide.org/categories/%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%88/%E3%83%90%E3%83%83%E3%82%AF%E3%83%8D%E3%83%83%E3%83%88%E8%A3%8F%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%82%B7%E3%83%BC%E3%83%885/"/>
     
+    
   </entry>
   
   <entry>
-    <title><![CDATA[C12列8番]]></title>
+    <title>C12列8番</title>
     <link href="http://kobosta-guide.org/%E5%86%85%E9%87%8E%E6%8C%87%E5%AE%9A%E5%B8%AD3%E5%A1%81%E5%81%B4A/c12-8/"/>
     <id>http://kobosta-guide.org/内野指定席3塁側A/c12-8/</id>
     <published>2015-06-28T10:33:59.000Z</published>
     <updated>2015-06-28T11:01:02.000Z</updated>
+    
     <content type="html"><![CDATA[<img src="/内野指定席3塁側A/c12-8/map.png" title="座席位置 座席位置">
 <p>3塁側ベンチの上の席。</p>
 <p>この一帯の席は見晴らしは文句なし。</p>
@@ -399,68 +503,83 @@
 <p>バックネット裏のゴールデンシートやイーグルシートよりも価格は安いが、それらよりも得が多く一番美味しい席といえる。</p>
 <p>ホーム側ベンチ上一帯はおすすめの席。</p>
 ]]></content>
+    
     <summary type="html">
-    <![CDATA[<img src="/内野指定席3塁側A/c12-8/map.png" title="座席位置 座席位置">
-<p>3塁側ベンチの上の席。</p>
-<p>この一帯の席は見晴らしは文句なし。</p>
-<p>またホームベンチ上ということもあり、サインボールを投げ入れてくれる可能性が高]]>
+    
+      &lt;img src=&quot;/内野指定席3塁側A/c12-8/map.png&quot; title=&quot;座席位置 座席位置&quot;&gt;
+&lt;p&gt;3塁側ベンチの上の席。&lt;/p&gt;
+&lt;p&gt;この一帯の席は見晴らしは文句なし。&lt;/p&gt;
+&lt;p&gt;またホームベンチ上ということもあり、サインボールを投げ入れてくれる可能性が高
+    
     </summary>
     
       <category term="内野指定席3塁側A" scheme="http://kobosta-guide.org/categories/%E5%86%85%E9%87%8E%E6%8C%87%E5%AE%9A%E5%B8%AD3%E5%A1%81%E5%81%B4A/"/>
     
+    
   </entry>
   
   <entry>
-    <title><![CDATA[C8列51番]]></title>
+    <title>C8列51番</title>
     <link href="http://kobosta-guide.org/%E5%86%85%E9%87%8E%E6%8C%87%E5%AE%9A%E5%B8%AD3%E5%A1%81%E5%81%B4A/c8-51/"/>
     <id>http://kobosta-guide.org/内野指定席3塁側A/c8-51/</id>
     <published>2015-06-28T06:02:32.000Z</published>
     <updated>2015-06-28T06:16:52.000Z</updated>
+    
     <content type="html"><![CDATA[<img src="/内野指定席3塁側A/c8-51/map.png" title="座席位置 座席位置">
 <p>内野指定席Aの中段。</p>
 <p>若干のフェンス柱の被りがあるものの、内外野ともに全体的に見晴らしがよく見やすい。</p>
 <p>三塁手が守備につくときにサインボールが投げ込まれやすそうな位置。</p>
 ]]></content>
+    
     <summary type="html">
-    <![CDATA[<img src="/内野指定席3塁側A/c8-51/map.png" title="座席位置 座席位置">
-<p>内野指定席Aの中段。</p>
-<p>若干のフェンス柱の被りがあるものの、内外野ともに全体的に見晴らしがよく見やすい。</p>
-<p>三塁手が守備につくときにサインボ]]>
+    
+      &lt;img src=&quot;/内野指定席3塁側A/c8-51/map.png&quot; title=&quot;座席位置 座席位置&quot;&gt;
+&lt;p&gt;内野指定席Aの中段。&lt;/p&gt;
+&lt;p&gt;若干のフェンス柱の被りがあるものの、内外野ともに全体的に見晴らしがよく見やすい。&lt;/p&gt;
+&lt;p&gt;三塁手が守備につくときにサインボ
+    
     </summary>
     
       <category term="内野指定席3塁側A" scheme="http://kobosta-guide.org/categories/%E5%86%85%E9%87%8E%E6%8C%87%E5%AE%9A%E5%B8%AD3%E5%A1%81%E5%81%B4A/"/>
     
+    
   </entry>
   
   <entry>
-    <title><![CDATA[C1列51番]]></title>
+    <title>C1列51番</title>
     <link href="http://kobosta-guide.org/%E5%86%85%E9%87%8E%E6%8C%87%E5%AE%9A%E5%B8%AD3%E5%A1%81%E5%81%B4A/c1-51/"/>
     <id>http://kobosta-guide.org/内野指定席3塁側A/c1-51/</id>
     <published>2015-06-28T04:19:48.000Z</published>
     <updated>2015-06-28T05:18:44.000Z</updated>
+    
     <content type="html"><![CDATA[<img src="/内野指定席3塁側A/c1-51/map.png" title="座席位置 座席位置">
 <p>内野指定3塁側Aの最前列。</p>
 <p>本塁方向、内野方向、外野方向、どこを見るにもフェンスやポールが目に入り、お世辞にも快適とは言いがたい。</p>
 <p>フェンスが邪魔しているため、サインボールの投げ入れやファールボールを入手できる可能性も低い。</p>
 <p>席に余裕がある場合はわざわざこの列の座席を選ばないほうがよさそう。</p>
 ]]></content>
+    
     <summary type="html">
-    <![CDATA[<img src="/内野指定席3塁側A/c1-51/map.png" title="座席位置 座席位置">
-<p>内野指定3塁側Aの最前列。</p>
-<p>本塁方向、内野方向、外野方向、どこを見るにもフェンスやポールが目に入り、お世辞にも快適とは言いがたい。</p>
-<p>フェ]]>
+    
+      &lt;img src=&quot;/内野指定席3塁側A/c1-51/map.png&quot; title=&quot;座席位置 座席位置&quot;&gt;
+&lt;p&gt;内野指定3塁側Aの最前列。&lt;/p&gt;
+&lt;p&gt;本塁方向、内野方向、外野方向、どこを見るにもフェンスやポールが目に入り、お世辞にも快適とは言いがたい。&lt;/p&gt;
+&lt;p&gt;フェ
+    
     </summary>
     
       <category term="内野指定席3塁側A" scheme="http://kobosta-guide.org/categories/%E5%86%85%E9%87%8E%E6%8C%87%E5%AE%9A%E5%B8%AD3%E5%A1%81%E5%81%B4A/"/>
     
+    
   </entry>
   
   <entry>
-    <title><![CDATA[C1列102番]]></title>
+    <title>C1列102番</title>
     <link href="http://kobosta-guide.org/%E5%86%85%E9%87%8E%E6%8C%87%E5%AE%9A%E5%B8%AD3%E5%A1%81%E5%81%B4A/c1-102/"/>
     <id>http://kobosta-guide.org/内野指定席3塁側A/c1-102/</id>
     <published>2015-06-27T14:50:58.000Z</published>
     <updated>2015-06-27T15:10:48.000Z</updated>
+    
     <content type="html"><![CDATA[<img src="/内野指定席3塁側A/c1-102/map.png" title="座席位置 座席位置">
 <p>内野指定席3塁側Aの最前列。フィールドシート越しの観戦となる。</p>
 <p>内野指定席3塁側Bの最前列とは違い、高いフェンスが視界を遮ることはなく、広々としていて解放感がある。</p>
@@ -468,22 +587,27 @@
 <p>一段下がった位置にあるフィールドシートの存在がむしろ視界を広げてくれている。</p>
 <p>投手から打者をほぼ真横から見る嫌いはあるが、外野手の動きは見やすい。</p>
 ]]></content>
+    
     <summary type="html">
-    <![CDATA[<img src="/内野指定席3塁側A/c1-102/map.png" title="座席位置 座席位置">
-<p>内野指定席3塁側Aの最前列。フィールドシート越しの観戦となる。</p>
-<p>内野指定席3塁側Bの最前列とは違い、高いフェンスが視界を遮ることはなく、広々としてい]]>
+    
+      &lt;img src=&quot;/内野指定席3塁側A/c1-102/map.png&quot; title=&quot;座席位置 座席位置&quot;&gt;
+&lt;p&gt;内野指定席3塁側Aの最前列。フィールドシート越しの観戦となる。&lt;/p&gt;
+&lt;p&gt;内野指定席3塁側Bの最前列とは違い、高いフェンスが視界を遮ることはなく、広々としてい
+    
     </summary>
     
       <category term="内野指定席3塁側A" scheme="http://kobosta-guide.org/categories/%E5%86%85%E9%87%8E%E6%8C%87%E5%AE%9A%E5%B8%AD3%E5%A1%81%E5%81%B4A/"/>
     
+    
   </entry>
   
   <entry>
-    <title><![CDATA[C1列146番]]></title>
+    <title>C1列146番</title>
     <link href="http://kobosta-guide.org/%E5%86%85%E9%87%8E%E6%8C%87%E5%AE%9A%E5%B8%AD3%E5%A1%81%E5%81%B4B/c1-146/"/>
     <id>http://kobosta-guide.org/内野指定席3塁側B/c1-146/</id>
     <published>2015-06-27T11:05:45.000Z</published>
     <updated>2015-06-27T11:38:52.000Z</updated>
+    
     <content type="html"><![CDATA[<img src="/内野指定席3塁側B/c1-146/map.png" title="座席位置 座席位置">
 <p>内野指定席3塁側Bの最前列。フィールドシート（砂かぶり席）の後ろに位置する。</p>
 <p>本塁側を見ると若干フェンスの被りがある。</p>
@@ -493,58 +617,45 @@
 <p>レフト選手を近くで見たい人にはグッド。</p>
 <p>最前列ということもあり足下は広いため、荷物が置きやすいのと、目の前を人が通るたびに脚を縮める億劫さがないのは利点かも。</p>
 ]]></content>
+    
     <summary type="html">
-    <![CDATA[<img src="/内野指定席3塁側B/c1-146/map.png" title="座席位置 座席位置">
-<p>内野指定席3塁側Bの最前列。フィールドシート（砂かぶり席）の後ろに位置する。</p>
-<p>本塁側を見ると若干フェンスの被りがある。</p>
-<p>外野を見たとき]]>
+    
+      &lt;img src=&quot;/内野指定席3塁側B/c1-146/map.png&quot; title=&quot;座席位置 座席位置&quot;&gt;
+&lt;p&gt;内野指定席3塁側Bの最前列。フィールドシート（砂かぶり席）の後ろに位置する。&lt;/p&gt;
+&lt;p&gt;本塁側を見ると若干フェンスの被りがある。&lt;/p&gt;
+&lt;p&gt;外野を見たとき
+    
     </summary>
     
       <category term="内野指定席3塁側B" scheme="http://kobosta-guide.org/categories/%E5%86%85%E9%87%8E%E6%8C%87%E5%AE%9A%E5%B8%AD3%E5%A1%81%E5%81%B4B/"/>
     
+    
   </entry>
   
   <entry>
-    <title><![CDATA[C20列187番]]></title>
+    <title>C20列187番</title>
     <link href="http://kobosta-guide.org/%E5%86%85%E9%87%8E%E6%8C%87%E5%AE%9A%E5%B8%AD3%E5%A1%81%E5%81%B4B/c20-187/"/>
     <id>http://kobosta-guide.org/内野指定席3塁側B/c20-187/</id>
     <published>2015-06-27T09:51:00.000Z</published>
     <updated>2015-06-27T10:26:37.000Z</updated>
+    
     <content type="html"><![CDATA[<img src="/内野指定席3塁側B/c20-187/map.png" title="座席位置 座席位置">
 <p>内野指定席3塁側の一番上段かつ一番端っこの席。</p>
 <p>内野席といいながら位置は完全に外野だが、内野席で一番遠い席ながらも内野フィールドを見た時お眺めは割りとよい。</p>
 <p>外野を見下ろすには壁とフェンスにかぶってしまう部分があり、立たないとよくは見えない。</p>
 <p>席のすぐ隣にはピンクの女性専用シートがあり、黄色い声援も近くで聞こえそう。</p>
 ]]></content>
+    
     <summary type="html">
-    <![CDATA[<img src="/内野指定席3塁側B/c20-187/map.png" title="座席位置 座席位置">
-<p>内野指定席3塁側の一番上段かつ一番端っこの席。</p>
-<p>内野席といいながら位置は完全に外野だが、内野席で一番遠い席ながらも内野フィールドを見た時お眺めは割]]>
+    
+      &lt;img src=&quot;/内野指定席3塁側B/c20-187/map.png&quot; title=&quot;座席位置 座席位置&quot;&gt;
+&lt;p&gt;内野指定席3塁側の一番上段かつ一番端っこの席。&lt;/p&gt;
+&lt;p&gt;内野席といいながら位置は完全に外野だが、内野席で一番遠い席ながらも内野フィールドを見た時お眺めは割
+    
     </summary>
     
       <category term="内野指定席3塁側B" scheme="http://kobosta-guide.org/categories/%E5%86%85%E9%87%8E%E6%8C%87%E5%AE%9A%E5%B8%AD3%E5%A1%81%E5%81%B4B/"/>
     
-  </entry>
-  
-  <entry>
-    <title><![CDATA[A20列3番]]></title>
-    <link href="http://kobosta-guide.org/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%88/a20-3/"/>
-    <id>http://kobosta-guide.org/ゴールデンシート/a20-3/</id>
-    <published>2015-06-27T08:23:39.000Z</published>
-    <updated>2015-06-27T10:28:29.000Z</updated>
-    <content type="html"><![CDATA[<img src="/ゴールデンシート/a20-3/map.png" title="座席位置 座席位置">
-<p>ゴールデンシートは市販されている一般座席の中でもっとも高い席。</p>
-<p>低すぎず高すぎず中段くらいの位置からフィールドを見下ろせる。</p>
-<p>階段も近いため、踊り場にあるトイレと露店にも行きやすい。</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<img src="/ゴールデンシート/a20-3/map.png" title="座席位置 座席位置">
-<p>ゴールデンシートは市販されている一般座席の中でもっとも高い席。</p>
-<p>低すぎず高すぎず中段くらいの位置からフィールドを見下ろせる。</p>
-<p>階段も近いた]]>
-    </summary>
-    
-      <category term="ゴールデンシート" scheme="http://kobosta-guide.org/categories/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%88/"/>
     
   </entry>
   
