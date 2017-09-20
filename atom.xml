@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>コボスタ観戦ガイド</title>
+  <title>コボパ、コボスタ観戦ガイド</title>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kobosta-guide.org/"/>
-  <updated>2017-08-16T14:49:05.000Z</updated>
+  <updated>2017-09-20T05:02:28.000Z</updated>
   <id>http://kobosta-guide.org/</id>
   
   <author>
@@ -14,6 +14,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>イーグルシート A28列156番</title>
+    <link href="http://kobosta-guide.org/%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%88/a28-156/"/>
+    <id>http://kobosta-guide.org/イーグルシート/a28-156/</id>
+    <published>2017-09-20T04:23:39.000Z</published>
+    <updated>2017-09-20T05:02:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="map.png" alt="座席位置"></p>
+<p>台風が迫る中、3連休初日。<br>久々にバックネット裏で観戦。</p>
+<h2 id="席からの眺め"><a href="#席からの眺め" class="headerlink" title="席からの眺め"></a>席からの眺め</h2><p><img src="01.jpg" alt="座席からの眺め"><br><img src="02.jpg" alt="座席からの眺め"><br><img src="03.jpg" alt="座席からの眺め"></p>
+<p>やはり近い、見やすい。</p>
+<p><img src="04.jpg" alt="座席からの眺め"><br><img src="05.jpg" alt="座席からの眺め"><br><img src="06.jpg" alt="座席からの眺め"></p>
+<p>この日のピッチャーは辛島。しかしピリッとしなかった。相手先発の涌井さんがそれ以上にダメだったので助かった。</p>
+<h2 id="勝利。れ〜べ〜ステージ"><a href="#勝利。れ〜べ〜ステージ" class="headerlink" title="勝利。れ〜べ〜ステージ"></a>勝利。れ〜べ〜ステージ</h2><p><img src="07.jpg" alt="れ〜べ〜ステージ。西宮"></p>
+<p>バカ打ちして勝った試合は、ヒーローはなぜかタンメン西宮でした。</p>
+<p>第一子誕生したとのこと。いつの間にか結婚してたんだ。</p>
+<h2 id="夜食"><a href="#夜食" class="headerlink" title="夜食"></a>夜食</h2><p><img src="08.jpg" alt="夜食"></p>
+<p>みつくらさんでいただきました。コース料理で6品（3500円）〜9品（5000円）まで選べます。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;map.png&quot; alt=&quot;座席位置&quot;&gt;&lt;/p&gt;
+&lt;p&gt;台風が迫る中、3連休初日。&lt;br&gt;久々にバックネット裏で観戦。&lt;/p&gt;
+&lt;h2 id=&quot;席からの眺め&quot;&gt;&lt;a href=&quot;#席からの眺め&quot; class=&quot;headerlink&quot; title=&quot;席から
+    
+    </summary>
+    
+      <category term="イーグルシート" scheme="http://kobosta-guide.org/categories/%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%88/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>内野指定席1塁側A B19列46番</title>
@@ -640,37 +673,6 @@
     </summary>
     
       <category term="内野指定席3塁側A" scheme="http://kobosta-guide.org/categories/%E5%86%85%E9%87%8E%E6%8C%87%E5%AE%9A%E5%B8%AD3%E5%A1%81%E5%81%B4A/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>C1列146番</title>
-    <link href="http://kobosta-guide.org/%E5%86%85%E9%87%8E%E6%8C%87%E5%AE%9A%E5%B8%AD3%E5%A1%81%E5%81%B4B/c1-146/"/>
-    <id>http://kobosta-guide.org/内野指定席3塁側B/c1-146/</id>
-    <published>2015-06-27T11:05:45.000Z</published>
-    <updated>2015-06-27T11:38:52.000Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/内野指定席3塁側B/c1-146/map.png" title="座席位置 座席位置">
-<p>内野指定席3塁側Bの最前列。フィールドシート（砂かぶり席）の後ろに位置する。</p>
-<p>本塁側を見ると若干フェンスの被りがある。</p>
-<p>外野を見たときには目の前にフェンスがそびえているため、自分の目線と外野の地面の間に死角が発生する。</p>
-<p>女子シートは見上げる位置にあるがほぼ死角となる。</p>
-<p>外野手との距離は近いが、目線の位置が低いため見晴らしを重視する人にはいまいちかもしれない。</p>
-<p>レフト選手を近くで見たい人にはグッド。</p>
-<p>最前列ということもあり足下は広いため、荷物が置きやすいのと、目の前を人が通るたびに脚を縮める億劫さがないのは利点かも。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;img src=&quot;/内野指定席3塁側B/c1-146/map.png&quot; title=&quot;座席位置 座席位置&quot;&gt;
-&lt;p&gt;内野指定席3塁側Bの最前列。フィールドシート（砂かぶり席）の後ろに位置する。&lt;/p&gt;
-&lt;p&gt;本塁側を見ると若干フェンスの被りがある。&lt;/p&gt;
-&lt;p&gt;外野を見たとき
-    
-    </summary>
-    
-      <category term="内野指定席3塁側B" scheme="http://kobosta-guide.org/categories/%E5%86%85%E9%87%8E%E6%8C%87%E5%AE%9A%E5%B8%AD3%E5%A1%81%E5%81%B4B/"/>
     
     
   </entry>
